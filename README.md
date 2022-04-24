@@ -10,7 +10,7 @@ The temperature of June are higher than Decemember in each day.
 - The minimum tempterature of Decemember is drop down to 56 dergees. It means the water are cold right now. While the June is 64 degrees.
 - At 75% of the time, the temperature is 77 dregees or higher in June and 74 dregees highter in Decemember.  
 ![temps of June](https://github.com/JoJofia/surfs_up/blob/0743a0dcfec5e3e1a3f31ce2d4f7541447e07eb6/%20summary_statistics_for_June.png)
-1[temps of Dec](https://github.com/JoJofia/surfs_up/blob/0743a0dcfec5e3e1a3f31ce2d4f7541447e07eb6/%20summary_statistics_for_Dec.png)
+![temps of Dec](https://github.com/JoJofia/surfs_up/blob/0743a0dcfec5e3e1a3f31ce2d4f7541447e07eb6/%20summary_statistics_for_Dec.png)
 
 ## Summary
 Those two addition quaries can solid statistical analysis because it provide us a summary of different statistics for the amount of precipitation between June and December.Such as the relationship between temperature and precipitation.
